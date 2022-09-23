@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aminul islam</h1>
-<h3 align="center">Webdeveloper</h3>
+<h3 align="center">Web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aminulsprograming&label=Profile%20views&color=0e75b6&style=flat" alt="aminulsprograming" /> </p>
 
