@@ -1,5 +1,5 @@
-### Hi there 👋, My Name is Aminul Islam
-#### Web Developer
+# Hi there 👋, My Name Is Aminul Islam
+## Web Developer
 ![Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 Hey I am Aminul Islam .I am a web developer. I am very interest for developing . client satisfaction is my first priority .
