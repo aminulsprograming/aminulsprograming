@@ -1,27 +1,31 @@
-<h1 align="center">Hi 👋, I'm Aminul islam</h1>
-<h3 align="center">Web developer</h3>
+### Hi there 👋, My Name is Aminul Islam
+#### Web Developer
+![Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aminulsprograming&label=Profile%20views&color=0e75b6&style=flat" alt="aminulsprograming" /> </p>
+Hey I am Aminul Islam .I am a web developer. I am very interest for developing . client satisfaction is my first priority .
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aminulsprograming" alt="aminulsprograming" /></a> </p>
+Skills:  HTML / CSS/BOOSTRAP/JS
 
-- 🌱 I’m currently learning **JavaScript.**
+- 🔭 I’m currently working on aminulsprograming 
+- 🌱 I’m currently learning java 
+- 📫 How to reach me: aminul.islam994497@gmail.com 
+- ⚡ Fun fact:  Fun fact I think I am funny. 
 
-- 💬 Ask me about **html,css,boostrap.**
 
-- 📫 How to reach me **aminul.islam994497@gmail.com**
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aminulsprograming)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Aminul Islam)  
 
-- ⚡ Fun fact **I think I am funny.**
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codesandbox.com/aminulsprograming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="aminulsprograming" height="30" width="40" /></a>
-<a href="https://fb.com/aminul islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aminul islam" height="30" width="40" /></a>
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=aminulsprograming)](https://github.com/ryo-ma/github-profile-trophy)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aminulsprograming)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aminulsprograming&show_icons=true&locale=en&layout=compact" alt="aminulsprograming" /></p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aminulsprograming&show_icons=true&count_private=true)  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aminulsprograming&show_icons=true&locale=en" alt="aminulsprograming" /></p>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aminulsprograming)  
+
+![GitHub metrics](https://metrics.lecoq.io/aminulsprograming)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=aminulsprograming)  
+
+![Profile views](https://gpvc.arturio.dev/aminulsprograming)  
